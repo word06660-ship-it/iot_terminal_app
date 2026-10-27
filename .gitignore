@@ -1,0 +1,21 @@
+# 编译产物
+Debug/
+Release/
+
+# CubeMX 缓存
+.mxproject
+
+# 编辑器 / AI 工具缓存
+.vscode/
+.trae/
+.workbuddy/
+*.launch
+
+# 编译中间文件
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.map
+*.list
